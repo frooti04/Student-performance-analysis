@@ -14,7 +14,7 @@ Microsoft Excel
 ## Dashboard
 Created dashboard to visualize performance trends
 
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/3fefa2a0-2c86-43e3-9417-af614280f24a" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/811aea21-b4a9-43d5-92e1-1e0f12bbc2e2" />
 
 ## Key Insights
 -Male students performed slightly better overall
